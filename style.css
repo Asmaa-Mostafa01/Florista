@@ -44,7 +44,7 @@ h4 {
 
 p {
   color: #333;
-  font-size: 25px;
+  font-size: 24px;
   margin: 30px;
 }
 
@@ -210,17 +210,16 @@ nav a {
 }
 
 
-
-
-.info p,
-.info span {
   /* contect us page */
+.info {
 
   text-align: center;
-  color: #333;
-  font-size: 20px;
   font-weight: bold;
+}
 
+.info span {
+
+  color: #d93c82;
 }
 
 #contact-form {
